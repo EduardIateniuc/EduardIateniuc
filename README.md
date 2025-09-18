@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/эдуард яценюк" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="эдуард яценюк" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/эдуард яценюк](https://www.linkedin.com/in/%D1%8D%D0%B4%D1%83%D0%B0%D1%80%D0%B4-%D1%8F%D1%86%D0%B5%D0%BD%D1%8E%D0%BA-a51677278/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="эдуард яценюк" height="30" width="40" /></a>
 <a href="https://instagram.com/___eduard____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___eduard____" height="30" width="40" /></a>
 </p>
 
